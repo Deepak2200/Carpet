@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    margin: 0;
+    background-color: #121110;
+    color: #FAF8F5;
+    overflow-x: hidden;
+  }
+}
